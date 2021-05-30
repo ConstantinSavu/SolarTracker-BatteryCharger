@@ -53,10 +53,6 @@ void setup() {
   
 }
 
-
-
-
-
 void loop() {
 
   int yellowStatus = analogRead(yellowREAD);
